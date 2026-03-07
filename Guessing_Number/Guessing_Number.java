@@ -21,7 +21,7 @@ public class Guessing_Number {
         }
         System.out.println("--- You Win ---");
         System.out.println("The number you have guessed : "+NumbertoGuess);
-        System.out.println("You have took : "+NumberofTries+" attempts to guess.");
+        System.out.println("You took "+NumberofTries+ " attempts to guess the number.");
 
     }
 }
