@@ -113,6 +113,9 @@ public class Main {
                     System.out.println(a.getAccountNumber() + " | " + a.getHolderName() + " | " + a.getBalance());
                 }
                 break;
+            case 7:
+               System.out.println("Thank you for using the Banking System!");
+               break;
             default:
                 System.out.println("Invalid Input");
         }
